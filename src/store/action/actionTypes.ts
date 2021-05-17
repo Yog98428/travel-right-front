@@ -1,0 +1,40 @@
+// login
+export const LOGIN_START = "LOGIN_START";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const AUTO_LOGIN = "AUTO_LOGIN";
+
+// clear Login
+export const CLEAR_LOGIN = "CLEAR_LOGIN";
+
+// list Cart
+export const LIST_CART_SUCCESS = "LIST_CART_SUCCESS";
+export const LIST_CART_START = "LIST_CART_START";
+export const LIST_CART_FAIL = "LIST_CART_FAIL";
+
+// register
+export const REGISTER_START = "REGISTER_START";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+// category
+export const FETCH_CATEGORY_START = "FETCH_CATEGORY_START";
+export const FETCH_CATEGORY_SUCCESS = "FETCH_CATEGORY_SUCCESS";
+export const FETCH_CATEGORY_Fail = "FETCH_CATEGORY_Fail";
+
+export const FETCH_PRODUCT_START = "FETCH_PRODUCT_START";
+export const FETCH_PRODUCT_SUCCESS = "FETCH_PRODUCT_SUCCESS";
+export const FETCH_PRODUCT_Fail = "FETCH_PRODUCT_Fail";
+
+// product
+
+// flash sell
+export const FETCH_FLASH_PRODUCT_START = "FETCH_FLAST_PRODUCT_START";
+export const FETCH_FLASH_PRODUCT_SUCCESS = "FETCH_FLAST_PRODUCT_SUCCESS";
+export const FETCH_FLASH_PRODUCT_Fail = "FETCH_FLAST_PRODUCT_Fail";
+
+// latest product
+
+export const FETCH_LATEST_PRODUCT_START = "FETCH_LATEST_PRODUCT_START";
+export const FETCH_LATEST_PRODUCT_SUCCESS = "FETCH_LATEST_PRODUCT_SUCCESS";
+export const FETCH_LATEST_PRODUCT_Fail = "FETCH_LATEST_PRODUCT_Fail";
